@@ -1,5 +1,4 @@
 <?php
-yii какие файлы убрать из git
 /* @var $this yii\web\View */
 
 $this->title = 'My Yii Application';
